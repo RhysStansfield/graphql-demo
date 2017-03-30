@@ -1,0 +1,19 @@
+{
+  "posts": [
+    {
+      "id": 1,
+      "title": "My Awesome Post",
+      "body": "Lorum ipsum ..."
+    },
+    {
+      "id": 2,
+      "title": "BREAKING: Papa Smurf is REAL!",
+      "body": "The secret they've been hiding from you ..."
+    },
+    {
+      "id": 3,
+      "title": "Strawberries Have Feelings Too",
+      "body": "Think about that the next time you have jam scones ..."
+    }
+  ]
+}
